@@ -2,26 +2,41 @@
 
 * [Quper Documentation](README.md)
 
-## Getting Started
+## Get Started with Quper
 
-* [Getting started](getting-started/getting-started.md)
+* [Introduction](getting-started/introduction.md)
 * [Quickstart](getting-started/quickstart.md)
-* [Your first project](getting-started/your-first-project.md)
+* [Onboarding Your Team](getting-started/onboarding.md)
 
-## Core concepts
+## Integrations
 
-* [Core concepts](core-concepts/core-concepts.md)
-* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
-* [Permissions](core-concepts/permissions.md)
+* [Overview](integrations/integrations.md)
+* Cloud Providers
+  * [Connect to AWS](integrations/aws.md)
+  * [Connect to GCP](integrations/gcp.md)
+  * [Connect to Azure](integrations/azure.md)
+* Data Warehouses & Platforms
+  * [Connect to Snowflake](integrations/snowflake.md)
+  * [Connect to Databricks](integrations/databricks.md)
+  * [Connect to BigQuery](integrations/bigquery.md)
 
-## Guides
+## User Guide
 
-* [Guides](guides/guides.md)
-* [Custom domains](guides/custom-domains.md)
-* [Automations](guides/automations.md)
+* Observe
+  * [Spend Overview](user-guide/observe/spend-overview.md)
+* Detect
+  * [Anomalies](user-guide/detect/anomalies.md)
+* Decide
+  * [Action Intelligence](user-guide/decide/action-intelligence.md)
+* Govern
+  * [Cost Governance](user-guide/govern/cost-governance.md)
 
-## Reference
+## Vidura AI
 
-* [Reference](reference/reference.md)
-* [Configuration](reference/configuration.md)
-* [Glossary](reference/glossary.md)
+* [Vidura AI Overview](vidura-ai/vidura-ai.md)
+
+## Settings
+
+* [Account Settings](settings/account.md)
+* [Role-Based Access Control (RBAC)](settings/rbac.md)
+* [Alerts & Notifications](settings/alerts.md)
