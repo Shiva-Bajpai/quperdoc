@@ -11,24 +11,24 @@
 ## Integrations
 
 * [Overview](integrations/integrations.md)
-* Cloud Providers
+* [Cloud Providers](integrations/cloud-providers/README.md)
   * [Connect to AWS](integrations/aws.md)
   * [Connect to GCP](integrations/gcp.md)
   * [Connect to Azure](integrations/azure.md)
-* Data Warehouses & Platforms
+* [Data Warehouses & Platforms](integrations/data-warehouses-and-platforms/README.md)
   * [Connect to Snowflake](integrations/snowflake.md)
   * [Connect to Databricks](integrations/databricks.md)
   * [Connect to BigQuery](integrations/bigquery.md)
 
 ## User Guide
 
-* Observe
+* [Observe](user-guide/observe/README.md)
   * [Spend Overview](user-guide/observe/spend-overview.md)
-* Detect
+* [Detect](user-guide/detect/README.md)
   * [Anomalies](user-guide/detect/anomalies.md)
-* Decide
+* [Decide](user-guide/decide/README.md)
   * [Action Intelligence](user-guide/decide/action-intelligence.md)
-* Govern
+* [Govern](user-guide/govern/README.md)
   * [Cost Governance](user-guide/govern/cost-governance.md)
 
 ## Vidura AI
