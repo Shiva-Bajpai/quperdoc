@@ -1,7 +1,7 @@
 ---
 description: Everything you need to connect, understand, and optimise with Quper
 icon: hand-wave
-cover: .gitbook/assets/Group 6930.png
+cover: .gitbook/assets/Group 6930 (1).png
 coverY: 0
 ---
 
