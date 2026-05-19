@@ -13,24 +13,28 @@ Navigate to **Settings → Account** from the left sidebar. Only users with the 
 
 ## Workspace profile
 
-- **Workspace name** — the display name for your organisation in Quper
-- **Workspace slug** — the URL-friendly identifier used in API calls and exports
-- **Time zone** — the default time zone used for cost reporting, budget periods, and scheduled reports
-- **Fiscal year start** — the month your financial year begins, used to align budget periods and financial reports
+* **Workspace name** — the display name for your organisation in Quper
+* **Workspace slug** — the URL-friendly identifier used in API calls and exports
+* **Time zone** — the default time zone used for cost reporting, budget periods, and scheduled reports
+* **Fiscal year start** — the month your financial year begins, used to align budget periods and financial reports
 
 ## Security
 
 ### Single Sign-On (SSO)
-Configure SAML 2.0 SSO to require all users to authenticate through your identity provider. See the [Onboarding](../getting-started/onboarding.md) guide for setup instructions.
+
+Configure SAML 2.0 SSO to require all users to authenticate through your identity provider. See the [Onboarding](../get-started-with-quper/onboarding.md) guide for setup instructions.
 
 ### Session management
-- **Session timeout** — set how long inactive sessions remain valid (default: 8 hours, maximum: 30 days)
-- **Force re-authentication** — require users to re-authenticate before applying optimisation actions
+
+* **Session timeout** — set how long inactive sessions remain valid (default: 8 hours, maximum: 30 days)
+* **Force re-authentication** — require users to re-authenticate before applying optimisation actions
 
 ### IP Allowlist
+
 Restrict Quper access to specific IP addresses or CIDR ranges. When enabled, users outside the allowed IPs cannot log in or access the Quper API.
 
 To enable:
+
 1. Go to **Settings → Account → Security → IP Allowlist**
 2. Click **Add IP Range** and enter the CIDR notation (e.g. `203.0.113.0/24`)
 3. Add all required ranges including your office IPs and VPN exit nodes

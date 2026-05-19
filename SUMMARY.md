@@ -4,21 +4,21 @@
 
 ## Get Started with Quper
 
-* [Introduction](getting-started/introduction.md)
-* [Quickstart](getting-started/quickstart.md)
-* [Onboarding Your Team](getting-started/onboarding.md)
+* [Introduction](get-started-with-quper/introduction.md)
+* [Quickstart](get-started-with-quper/quickstart.md)
+* [Onboarding Your Team](get-started-with-quper/onboarding.md)
 
 ## Integrations
 
 * [Overview](integrations/integrations.md)
 * [Cloud Providers](integrations/cloud-providers/README.md)
-  * [Connect to AWS](integrations/aws.md)
-  * [Connect to GCP](integrations/gcp.md)
-  * [Connect to Azure](integrations/azure.md)
+  * [Connect to AWS](integrations/cloud-providers/aws.md)
+  * [Connect to GCP](integrations/cloud-providers/gcp.md)
+  * [Connect to Azure](integrations/cloud-providers/azure.md)
 * [Data Warehouses & Platforms](integrations/data-warehouses-and-platforms/README.md)
-  * [Connect to Snowflake](integrations/snowflake.md)
-  * [Connect to Databricks](integrations/databricks.md)
-  * [Connect to BigQuery](integrations/bigquery.md)
+  * [Connect to Snowflake](integrations/data-warehouses-and-platforms/snowflake.md)
+  * [Connect to Databricks](integrations/data-warehouses-and-platforms/databricks.md)
+  * [Connect to BigQuery](integrations/data-warehouses-and-platforms/bigquery.md)
 
 ## User Guide
 
