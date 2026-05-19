@@ -1,19 +1,21 @@
 ---
-description: >-
-  Everything you need to build, deploy, and manage your projects on the
-  platform.
+description: Everything you need to integrate, understand, and scale with Quper
 icon: hand-wave
+cover: .gitbook/assets/Group 6930.png
+coverY: 0
 ---
 
-# Welcome
+# Quper Documentation
 
-Welcome to the platform. These docs cover everything from your first project to advanced workflows — pick a starting point below or ask the Assistant to jump straight to what you need.
+***
+
+Welcome to the Quper documentation hub!
+
+Find everything you need to manage your cloud financial operations with ease. Our updated articles, clear guides, and step-by-step instructions help you make the most of the Finout platform. Whether you're just getting started or optimizing your workflows, we aim to empower you with the knowledge to take full control of your cloud costs.
 
 <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question…</button>
 
 <button type="button" class="button secondary" data-action="ask" data-query="How do I deploy my first project" data-icon="rocket-launch">Deploy your first project</button><button type="button" class="button secondary" data-action="ask" data-query="How do I set up a custom domain" data-icon="globe">Set up a custom domain</button><button type="button" class="button secondary" data-action="ask" data-query="How do I invite my team" data-icon="user-group">Invite your team</button>
-
-***
 
 {% hint style="success" icon="sparkles" %}
 **New: scheduled deploys and team-level audit logs.** Schedule deploys for any future date and review every action taken in your workspace.
