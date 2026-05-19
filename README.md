@@ -10,7 +10,7 @@ coverY: 0
 
 Welcome to the Quper documentation hub.
 
-Quper is a cloud intelligence platform that gives data and engineering teams full visibility into cloud and warehouse spend. It monitors costs, detects anomalies, and surfaces AI-powered recommendations — so your team can stop overpaying and start acting with precision.
+Quper is a cloud intelligence platform that gives data and engineering teams full visibility into cloud and warehouse spend. It monitors costs, detects anomalies, and surfaces AI-powered recommendations so your team can stop overpaying and start acting with precision.
 
 ## Where to start
 
