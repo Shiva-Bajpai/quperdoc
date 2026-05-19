@@ -1,5 +1,5 @@
 ---
-description: Everything you need to connect, understand, and optimise with Quper
+description: Everything you need to connect, understand, and optimise with Quper :)
 cover: .gitbook/assets/Group 6930 (1).png
 coverY: 0
 ---
